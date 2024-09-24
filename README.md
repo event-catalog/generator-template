@@ -10,7 +10,7 @@ Starter project to create your own [generators](https://www.eventcatalog.dev/doc
 git clone git@github.com:event-catalog/generator-template.git
 ```
 
-### 2. Install depencies
+### 2. Install dependencies
 
 ```sh
 # using pnpm
@@ -55,7 +55,6 @@ generators: [
 ]
 ...
 ```
-
 
 ### 6. Compile and watch your plugin
 
